@@ -1,0 +1,31 @@
+.top_buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.top_buttons button {
+  padding: 8px 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 67px;
+  background-color: #FFFFFFCC;
+  color: black;
+  cursor: pointer;
+}
+
+.top_buttons .fee_payments_button {
+  background-color: #4876EE;
+  color: white;
+}
+.fee_adjustments_container_header{
+    display: flex;
+    
+}
+.history_button{
+    background-color: #FFFFFF;
+    width: 102px;
+    height: 40px;
+    cursor: pointer;
+    
+}
